@@ -5,7 +5,8 @@ Die Klasse unseres Sohnes nimmt momentan am [Step-Fit Wettbewerb](https://step-f
 Die Schüler bekommen Fitness-Armbänder die Schritte zählen, damit sammelt jeder Schritte für die Klasse.
 
 Was allerdings Schade ist, ist der Umstand dass man immer nur die Schritte der gesamten Klasse sieht, aber nicht wieviele Schritte man selbst gesammelt hat.
-Außerdem kann das Band nach Ende des Wettbewerbs weiterbenutzt werden, grade hier würde sich ein Mehrwert ergeben wenn man seine täglichen Schritte sehen könnte.
+Natürlich geht es hier darum, als Gemeinschaft zusammen zu arbeiten, und nicht sich zu vergleichen.
+Da das Band nach Ende des Wettbewerbs weiterbenutzt werden kann würde sich aber grade hier ein Mehrwert ergeben wenn man seine täglichen Schritte sehen könnte.
 Dafür ist dieses Program gedacht.
 
 ## Wie funktionierts
